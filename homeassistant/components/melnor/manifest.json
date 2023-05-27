@@ -12,5 +12,6 @@
   "dependencies": ["bluetooth_adapters"],
   "documentation": "https://www.home-assistant.io/integrations/melnor",
   "iot_class": "local_polling",
+  "quality_scale": "gold",
   "requirements": ["melnor-bluetooth==0.0.21"]
 }
